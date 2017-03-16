@@ -13,7 +13,14 @@ suchismit:
     webpage: "https://www.cse.buffalo.edu/mlds"
     role: grad
     bio: |
-       Suchismit works on manifold embedding.
+       Broadly, Suchismit's area of research is in large scale machine learning and data mining. Specifically his research focuses on designing, analyzing and implementing novel machine learning algorithms that take advantage of modern hardware to enable learning and mining of massive graphs and data sets. His research interests include :
+	   <ul>
+    <li>Scalable Machine/Deep Learning</li>
+    <li>Data Mining</li>
+    <li>Nonlinear/Distributed Optimization</li>
+    <li>Parallel Computing</li>
+    <li>Social Networks</li>
+</ul>
 
 duc:
     display_name: "Duc Luong"
